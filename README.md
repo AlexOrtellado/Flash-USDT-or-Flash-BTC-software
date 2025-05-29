@@ -16,7 +16,8 @@ What you can do, however, is transfer them between cold and hardware wallets. Fl
 ---
 
 ## 📸 **Screenshots & Demos**
-
+## How to get software
+contact me on Telegram
 https://T.me/Orteldev
 
 Here’s how Flash USDT performs on various platforms:
